@@ -16804,3 +16804,7 @@ label.checkbox { padding-left: 20px; }
 	display: flex;
 	justify-content: center;
 }
+
+.border-radius{
+	border-radius: 5px;
+}
